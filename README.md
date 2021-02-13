@@ -1,5 +1,10 @@
-# Netflik
+# GEOGRAFIS
+try to visit 
+`https://leafletjs.com` and you can see a lot of map and type mapping
+you only copy that cdn of Leafletjs
 
+
+## to start projrct
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.1.
 
 ## Development server
